@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "934741130329",
+    "project_id": "natural-grocers-a26bd",
+    "storage_bucket": "natural-grocers-a26bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934741130329:android:95b9179fcfbb0581a44548",
+        "android_client_info": {
+          "package_name": "com.naturalgrocers.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934741130329-9ru1225lp78kjh6q2b396ns6p94es780.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naturalgrocers.app",
+            "certificate_hash": "2abc3b20f4de552038fa11c394675008905a8c0a"
+          }
+        },
+        {
+          "client_id": "934741130329-keuc1uv17806oecr4e884e880v196qlv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naturalgrocers.app",
+            "certificate_hash": "436ac2c815231a480ed5bc7d218d024d99fd3cdd"
+          }
+        },
+        {
+          "client_id": "934741130329-2jgdt1o84cd111scesqun6g9tksk7jd0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF8VO_jbN9dEOkKGonh5Sd6ymz6tjY3yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934741130329-2jgdt1o84cd111scesqun6g9tksk7jd0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

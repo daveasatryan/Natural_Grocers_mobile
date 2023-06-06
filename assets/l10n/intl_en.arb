@@ -1,0 +1,506 @@
+{
+    "app_name": "Natural Groceries",
+    "power_account": "{N}power Account",
+    "sign_in_with_your_power_account": "Sign in with your {N}power account.",
+    "forgot_password": "Forgot Password?",
+    "sign_in": "Sign In",
+    "create_account": "Create Account",
+    "email_label": "Email*",
+    "email": "Email:",
+    "email_edit_label": "Email",
+    "coupon_legal_disclaimer": "Coupon Legal Disclaimer",
+    "category_coupon_limit_one": "Category Coupon. Limit one coupon/offer per guest. No other same department/category coupon will apply. Percent off  coupon will apply to all qualifying items in transaction. Void if copied, scanned, altered, transferred, purchased, sold or prohibited by law. Quantities limited: no rain checks, item(s) may not be included in determining purchase total. Coupon cannot be applied to previous purchases. No cash value. Excludes items sold and shipped by Natural Grocers.",
+    "loaded": "Loaded",
+    "redeemed": "Redeemed",
+    "password": "Password:",
+    "expired": "Expired",
+    "password_edit_label": "Password",
+    "phone_number": "Phone Number",
+    "delete_account": "Delete Account",
+    "edit_personal_information": "Edit Personal Information",
+    "email_hint": "Enter your email here",
+    "password_label": "Password*",
+    "password_hint": "Password",
+    "confirm_your_password_hint": "Confirm New Password",
+    "phone_number_hint": "000-000-0000",
+    "create_power_account": "Create {N}power Account",
+    "create_your_power_account_to_get": "Create your {N}power account to start earning points for every visit, exclusive deals, surprise offers, and discounts on eggs, avocados and more! Plus get $2 for signing up right now!",
+    "phone_number_label": "Phone Number*",
+    "digits_only_no_spaces_or_dashes": "10 digits only, no spaces or dashes",
+    "confirm_password_label": "Confirm Password*",
+    "at_least_8_characters_the": "At least 8 characters-the more characters, the better.",
+    "a_mixture_of_both_uppercase": "A mixture of both uppercase and lowercase letters.",
+    "a_mixture_of_letters": "A mixture of letters and numbers.",
+    "inclusion_of_at_least": "Inclusion of at least one special character, e.g., ! @ # ? ]",
+    "preferred_store": "Preferred Store*",
+    "select_your_preferred_store": "Select Your Preferred Store",
+    "by_creating_an_account": "By creating an account you agree to the ",
+    "terms_and_conditions": "Terms and Conditions.",
+    "continue_": "Continue",
+    "more_ways_to_save": "More Ways to Save",
+    "no_transactions_available": "No transactions available.",
+    "no_coupons_available": "No coupons available.",
+    "you_havent_clipped_any_coupons_yet": "You haven’t clipped any coupons yet.",
+    "bingo": "BI{N}GO",
+    "@bingo": {
+        "placeholders": {}
+    },
+    "complete_any_one_tine_To": "Complete any one (1) line to qualify. Keep an eye on your",
+    "forgot_password_header": "Forgot Password",
+    "new_password_label": "New Password*",
+    "new_password_hint_edit": "New Password",
+    "current_password_label": "Current Password*",
+    "current_password_hint": "Current Password",
+    "new_confirm_password_label": "Confirm New Password*",
+    "new_confirm_password_edit_hint": "Confirm New Password",
+    "new_password_hint": "Enter New Password Here",
+    "tips_for_a_strong_password": "Tips for a strong password:",
+    "input_error_text_here": "*Input error text here",
+    "close": "Close",
+    "every_200_point": "Every 200 point increment",
+    "my_progress": "My Progress",
+    "my_points": "My Points",
+    "my_profile": "My Profile",
+    "next_reward": "Next Reward",
+    "my_personal_information": " My Personal Information",
+    "from": "from",
+    "rewards_available": "Rewards Available",
+    "see_rewards": "See Rewards",
+    "latest_transactions": "Latest Transactions",
+    "this_month": "This Month",
+    "usd": "USD",
+    "filter_by": "Filter By",
+    "this_quarter": "This Quarter",
+    "this_year": "This Year",
+    "custom_Date_range": "Custom Date Range",
+    "my_coupons_savings": "My Coupons Savings",
+    "available": "Available",
+    "clear_filters": "Clear Filters",
+    "apply": "Apply",
+    "power_loyalty_program": "{N}power Loyalty Program",
+    "discover_power_natural_grocers": "Discover {N}power, Natural Grocers' free customer loyalty program, and enjoy exclusive discounts, deals, and surprise offers.",
+    "skip": "Skip",
+    "youll_earn_valuable": " You'll earn valuable rewards points with every visit. {N}power your health and wallet today—log in or sign up now.",
+    "coupons_and_sales": "Coupons and Sales",
+    "here_here_you_watch": "Here's where you watch the savings stack up! ",
+    "clip_coupons_from_your_favorite": "Clip coupons from your favorite brands and products. Discover what's on sale in our Health Hotline Magazine and get inspired by upcoming promotions. Find the best sales to support your best, healthy life!",
+    "what_new": "What’s New",
+    "stores_and_events": "Stores and Events",
+    "product_description": "Product Description",
+    "co_design_district": "CO - Design District - Alameda and Broadway",
+    "get_started": "Get Started",
+    "prdc": "PRDC CELLERY",
+    "total": "Total",
+    "quantity": "Quantity",
+    "amount": "Amount",
+    "ndwc": "NDWC EDPB Every Woma",
+    "find_your_closest": "Find your closest Natural Grocers store, and let’s get neighborly! ",
+    "whether_youre_new": "Whether you’re new to Natural Grocers, just moved and need to find a new location ASAP, or want to learn about upcoming events—this is where you want to be.",
+    "recipes_and_articles": "Recipes and Articles",
+    "build_a_collection": "Build a collection of recipes and articles to fit your lifestyle! ",
+    "search_for_new_menu": "Search for new menu inspo, read up on the hottest products and trends, and get empowered with our vast library of nutrition education. Save your favorites for easy future access.",
+    "be_in_the_know": "Be in the know about what’s happening at your local Natural Grocers! ",
+    "from_nutrition_education": "From nutrition education to sweepstakes to non-profit partnerships—discover the amazing things we’re up to and how they benefit you and your community. Get excited with us!",
+    "clipped": "Clipped",
+    "ydt_savings": "YTD Savings",
+    "available_coupons": "Available Coupons",
+    "clipped_coupons": "Clipped Coupons",
+    "whats_happening": "What's Happening!",
+    "npower": "Npower",
+    "whats_new": "What's New",
+    "recipes": "Recipes +",
+    "stores": "Stores",
+    "see_all": "See all",
+    "expires": "Expires {date}",
+    "@expires": {
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "find_store": "Find a Store",
+    "preferred_store_title": "Preferred Store",
+    "set_as_preferred_store_title": "Set as Preferred Store",
+    "hours_text": "Hours",
+    "whats_happening_at_store": "What's Happening at\n{store}",
+    "@whats_happening_at_store": {
+        "placeholders": {
+            "store": {
+                "type": "String"
+            }
+        }
+    },
+    "save_text": "Save",
+    "save": "Save ${point}",
+    "@save": {
+        "placeholders": {
+            "point": {
+                "type": "double"
+            }
+        }
+    },
+    "earns_reward": "earns a ${point} reward",
+    "@earns_reward": {
+        "placeholders": {
+            "point": {
+                "type": "int"
+            }
+        }
+    },
+    "pts_earned": "{point} pts earned",
+    "@pts_earned": {
+        "placeholders": {
+            "point": {
+                "type": "double"
+            }
+        }
+    },
+    "points_away": "{pointOne} points away from ${pointTwo} reward",
+    "@points_away": {
+        "placeholders": {
+            "pointOne": {
+                "type": "int"
+            },
+            "pointTwo": {
+                "type": "int"
+            }
+        }
+    },
+    "ready_to_clip": "${point} ready to clip",
+    "@ready_to_clip": {
+        "placeholders": {
+            "point": {
+                "type": "double"
+            }
+        }
+    },
+    "available_store_services_title": "Available Store Services",
+    "view_all_events_on_website": "View all events on website",
+    "our_story": "Our Story",
+    "product_standards": "Product Standards",
+    "n_power_faqs": "{N}power FAQs",
+    "communication_preferences": "Communication Preferences",
+    "terms_and_privacy_policy": "Terms and Privacy Policy",
+    "personal_data_requests": "Personal Data Requests",
+    "contact_us": "Contact Us",
+    "logout": "Log Out",
+    "communication_preferences_test": "We don't want to be annoying, but we're passionate about  what's happening at our stores that we want to share it ALL  with you. However, if it feels like too much, then let us know what you want to see and we'll tailor our communications accordingly. You're still welcome to unsubscribe… we'll be here if you change your mind later.",
+    "options": "Options",
+    "email_option": "Email",
+    "push_option": "Push",
+    "loyalty_point_rewards": "Loyalty Point Rewards \nand Updates",
+    "exclusive_coupons": "Exclusive Digital Coupons",
+    "delicious_recipes": "Delicious Recipes \nand Menu Inspiration",
+    "educational_resources": "Educational Resources \n(Videos, Articles, etc)",
+    "preferred_store_events": "Preferred Store Events \nand Sales",
+    "surveys": "Surveys \n(We love to hear from you)",
+    "unsubscribe": "Unsubscribe",
+    "unsubscribe_from_all": "Unsubscribe from ALL",
+    "unsubscribe_from_all_npower_emails": "Unsubscribe from all {N}power emails",
+    "unsubscribe_from_all_push_notifications": "Unsubscribe from all push notifications",
+    "unsubscribe_from_all_popup_msg": "Please note if you unsubscribe from all emails and push notifications, you will not receive communications about your $2 Loyalty Point Rewards. If you would like to opt-in to only Loyalty Point Rewards, please select that option below.",
+    "unsubscribe_from_emails_popup_msg": "Please note if you unsubscribe from all emails, you will not receive emails about your $2 Loyalty Point Rewards. If you would like to opt-in to only Loyalty Point Rewards, please select that option below.",
+    "unsubscribe_from_push_popup_msg": "Please note if you unsubscribe from all push notifications, you will not receive push notifications about your $2 Loyalty Point Rewards. If you would like to opt-in to only Loyalty Point Rewards, please select that option below.",
+    "yes_i_am": "Yes, I am",
+    "are_you_sure": "Are you sure?",
+    "cancel": "Cancel",
+    "contact_us_header_title": "We’d love to hear from you!",
+    "contact_us_header_desc": "If we’ve done something extraordinary that made your day, or if we missed the mark in some way, please don’t hesitate to contact us. We value your feedback and suggestions. \n\nEither use the form below to email us or give us a call. Please note, for all {N}power inquires, it is best to use the form below or call the office directly, as our stores do not have the ability to fix or respond to {N}power issues.",
+    "first_name_label": "First Name*",
+    "last_name_label": "Last Name*",
+    "topic": "Topic*",
+    "store": "Store*",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "select_topic_label": "Select a Topic*",
+    "select_store_label": "Select a Store*",
+    "select_topic": "Select a Topic",
+    "select_store": "Select a Store",
+    "message": "Message*",
+    "message_field_hint": "Enter your message here.",
+    "send": "Send",
+    "n_power_faq": "{N} power FAQ",
+    "what_is_n_power": "What is {N}power?",
+    "faqs_desc_text": "{N}power Natural Grocers' Customer Appreciation Program. Once you join you’ll gain access to digital coupons, offers and rewards – all by providing your phone number at checkout.",
+    "account": "Account",
+    "points": "Points",
+    "rewards": "Rewards",
+    "coupons": "Coupons",
+    "miscellaneous": "Miscellaneous",
+    "n_power_account": "{N}power Account",
+    "how_to_create_account": "How do I create an account?",
+    "how_to_access_account": "How do I access my {N}power Account?",
+    "how_to_reset_password": "How do I reset my password?",
+    "how_to_get_points": "How do I get points for coupons?",
+    "what_if_i_get_emails": "What if I'm not getting emails?",
+    "how_to_unsubscribe_emails": "How to unsubscribe {N}power emails?",
+    "how_to_close_account": "How do I close my {N}power account?",
+    "how_to_earn_points": "How do I earn points?",
+    "what_is_reward": "What is the rewards for points?",
+    "do_my_points_expire": "Do my points expire?",
+    "phone_number_and_transactions": "Phone number and transactions",
+    "how_to_redeem_rewards": "How do I redeem my reward?",
+    "missing_reward_email": "Missing your {N}power reward email?",
+    "do_my_rewards_expire": "Do my rewards expire?",
+    "where_find_coupons": "Where can I fond {N}power coupons?",
+    "where_find_dashboard": "Where do I find my {N}power dashboard?",
+    "is_there_limited_offers": "Is there a limited number of coupons?",
+    "how_redeem_offer": "How to redeemed offer?",
+    "do_coupons_expire": "Do coupons expire?",
+    "digital_coupons_availability": "Digital coupons availability?",
+    "digital_coupons_and_paper_coupons": "Digital coupons and paper coupons?",
+    "how_to_remove_coupons": "How to remove coupons?",
+    "coupons_waiting_time": "Coupons availability waiting time?",
+    "coupons_redeem": "Coupons, redeem and registration?",
+    "refund_items": "Refund items and discounts?",
+    "transaction_voided": "Transaction voided and coupons?",
+    "do_i_print_my_offers": "Do I have to print my offers and coupons?",
+    "is_my_privacy_protected": "Is my privacy protected?",
+    "does_n_power_have_restrictions": "Does {N}power has any restrictions?",
+    "field_is_required": "The field is required.",
+    "invalid_filed": "Invalid field",
+    "select_custom_date_range": "Select Custom Date Range",
+    "start_date": "Start Date",
+    "end_date": "End Date",
+    "n_power_clubs": "{N}Power Clubs",
+    "complete_any_one_to_qualify": "Complete any one (1) line to qualify.",
+    "spend": "Spend",
+    "how_to_win": "How to win:",
+    "on_body_care": "On Body Care \nProducts",
+    "earn_from": "Earn from",
+    "days_remaining": "days remaining",
+    "of_text": "Of",
+    "meal_deals_title": "Good4u™ Meal Deals™",
+    "list_view": "List View",
+    "grid_view": "Grid View",
+    "hotline_magazine": "Health Hotline Magazine",
+    "thumbnails": "Thumbnails",
+    "table_of_contents": "Table of Contents",
+    "search": "Search",
+    "enter_text_here": "Enter text here...",
+    "events": "Events",
+    "articles": "Articles",
+    "recipes_text": "Recipes",
+    "natural_grocers_products": "Natural Grocers Brand Products",
+    "deals": "Deals",
+    "find_recipes_and_articles": "Find Recipes and Articles",
+    "minutes": "{duration} mins",
+    "@minutes": {
+        "placeholders": {
+            "duration": {
+                "type": "String"
+            }
+        }
+    },
+    "unfavorite_msg": "If you unfavorite your recipe\u2028it will no longer appear in \u2028profile or favorites. ",
+    "yes_remove": "Yes,Remove",
+    "recipe_filters": "Recipe Filters",
+    "sort": "Sort",
+    "order": "Order",
+    "favorites": "Favorites",
+    "course": "Course",
+    "main_ingredient": "Main Ingredient",
+    "dietary_preference": "Dietary Preference",
+    "newest": "Newest",
+    "popularity": "Popularity",
+    "time_to_prepare": "Time to prepare",
+    "title": "Title",
+    "descending": "Descending",
+    "ascending": "Ascending",
+    "see_favorites_only": "See My Favorites Only",
+    "beef": "Beef",
+    "buffalo_bison": "Buffalo/Bison",
+    "chocolate": "Chocolate",
+    "eggs": "Eggs",
+    "exotic_meat": "Exotic Meat",
+    "fish": "Fish",
+    "lamb": "Lamb",
+    "pork" : "Pork",
+    "poultry" : "Poultry",
+    "seafood" : "Seafood",
+    "vegetables" : "Vegetables",
+    "something_went_wrong": "Something went wrong",
+    "earn_point_for": "Earn {pointOne} point for every ${pointTwo} spent on qualifying items",
+    "@earn_point_for": {
+        "placeholders": {
+            "pointOne": {
+                "type": "double"
+            },
+            "pointTwo": {
+                "type": "double"
+            }
+        }
+    },
+    "excludes_tax": "(excludes tax, gifts cards, donations, bag credits,etc)",
+    "receive_for_every": "Receive ${pointOne} for every {pointTwo} pts up to ${pointThree} per quarter",
+    "@receive_for_every": {
+        "placeholders": {
+            "pointOne": {
+                "type": "double"
+            },
+            "pointTwo": {
+                "type": "double"
+            },
+            "pointThree": {
+                "type": "double"
+            }
+        }
+    },
+    "get_on_your": "Get ${point} on your {N}power anniversary",
+    "@get_on_your": {
+        "placeholders": {
+            "point": {
+                "type": "double"
+            }
+        }
+    },
+    "save_on_eggs": "Save on eggs, avocados, whole chickens, & more",
+    "get_deals": "Get deals and surprise offers",
+    "my_rewards": "My Rewards",
+    "reward": "Reward",
+    "earned": "Earned",
+    "off_purchase": "${point} off purchase",
+    "@off_purchase": {
+        "placeholders": {
+            "point": {
+                "type": "double"
+            }
+        }
+    },
+    "rewardLoaded": "Reward Loaded",
+    "pts": "{point} pts",
+    "@pts": {
+        "placeholders": {
+            "point": {
+                "type": "int"
+            }
+        }
+    },
+    "pts_reward": "{point} pts reward",
+    "my_preferred_store": "My Preferred Store",
+    "see_store_details": "See Store Details",
+    "my_favorite_recipes": "My Favorite Recipes",
+    "recipes_point_text": "{point} Recipes",
+    "@recipes_point_text": {
+        "placeholders": {
+            "point": {
+                "type": "int"
+            }
+        }
+    },
+    "my_favorite_articles": "My Favorite Articles",
+    "health_hotline_magazine": "Health Hotline Magazine",
+    "learn_more_about_text": "Learn more about a ",
+    "natural_approach_to_living_text": "natural approach to living with sale items, recipes, educational articles, and more.",
+    "check_out_our_health_text": "  Check out our Health Hotline Subscription!",
+    "subscribe": "Subscribe",
+    "articles_point_text": "{point} Articles",
+    "@articles_point_text": {
+        "placeholders": {
+            "point": {
+                "type": "int"
+            }
+        }
+    },
+    "meat_alternatives": "Meal Alternatives",
+    "map_view": "Map View",
+    "no_recipes_liked_yet": "No recipes liked yet.",
+    "no_articles_liked_yet": "No articles liked yet.",
+    "see_articles": "See Articles",
+    "see_recipes": "See Recipes",
+    "reset_your_password": "Reset Your Password",
+    "you_have_just_used_your_text": "You have just used your one-time login link. It is no longer necessary to use this link to log in. Please change your password.",
+    "please_enter_the_email": "Please enter the email address associated with your account.",
+    "password_reset_instructions": "Password reset instructions will be sent to your registered email address.",
+    "submit": "Submit",
+    "click_the_log_ln_button": "Click the Log In button to log in to the site and change your password.",
+    "this_login_can_be": "This login can be used only once.",
+    "this_is_a_one_ime_login": "This is a one-time login for natgroceries@gmail.com and will expire on Thu, 02/09/2023 - 10:45.",
+    "login_text": "Log In",
+    "oops_something_happened": "Oops something happened!",
+    "you_have_tried_to_use": "You have tried to use a one-time login link that has either been used or is no longer valid. Please request a new one using the form below.",
+    "articles_text" : "Articles",
+    "title_monday": "Monday",
+    "title_tuesday": "Tuesday",
+    "title_wednesday": "Wednesday",
+    "title_thursday": "Thursday",
+    "title_friday": "Friday",
+    "title_saturday": "Saturday",
+    "title_sunday": "Sunday",
+    "title_presented_by": "Presented By",
+    "title_store_details": "Store Details",
+    "article_text": "Article",
+    "title_recipe_details": "Recipe Details",
+    "share" : "Share",
+    "serves": "Serves",
+    "total_time": "Total Time",
+    "description" : "Description",
+    "ingredients" : "Ingredients",
+    "directions" : "Directions",
+    "nutrition_info" : "Nutrition Info",
+    "nutrition_per_serving" : "Nutrition Per Serving (One)",
+    "calories" : "Calories",
+    "carbs" : "Carbs",
+    "protein" : "Protein",
+    "fat" : "Fat",
+    "fiber" : "Fiber",
+    "kcal_text": "{kcal} kcal",
+    "@kcal_text": {
+        "placeholders": {
+            "kcal": {
+                "type": "int"
+            }
+        }
+    },
+    "gram_text": "{gram}g",
+    "@gram_text": {
+        "placeholders": {
+            "gram": {
+                "type": "int"
+            }
+        }
+    },
+    "beverage_pairing" : "Beverage Pairing",
+    "recommended_beverage" : "Recommended Beverage",
+    "recommended_style" : "Recommended Style",
+    "recommended_brand" : "Recommended Brand",
+    "title_article_details" : "Article Details",
+    "written_by" : "Written by",
+    "for_the_love_of_examples" : "For the Love of Examples",
+    "recommended_wine" : "Recommended wine",
+    "disclaimer_and_other_info" : "Disclaimer and other info",
+    "sources" : "Sources",
+    "article_details_info" : "*These statements have not been evaluated by the Food and Drug Administration.",
+    "invalid_email" : "Invalid email address",
+    "invalid_phone_number" : "Invalid phone number",
+    "passwords_doesnt_match" : "Passwords must match.",
+    "sign_up_error" : "There was an error creating your account. Please try again later.",
+    "title_error" : "Oops! Something Happened",
+    "try_again" : "Try Again",
+    "title_set_your_preferred_store" : "Set Your Preferred Store",
+    "results" : "Results",
+    "set_preferred_store_dialog_msg" : "Are you sure you want to make this your preferred store?",
+    "no_title" : "No",
+    "yes_title" : "Yes",
+    "invalid_store" : "Invalid Store",
+    "location_permission_denied" : "Location permissions are denied",
+    "settings" : "Settings",
+    "msg_sign_up_success" : "Information has been confirmed and your account has been created successfully.",
+    "title_sign_up_success" : "Account Created Successfully",
+    "search_field_hint" : "Search by Zip Code, City or State",
+    "miles_away_text": "{miles} miles away",
+    "@miles_away_text": {
+        "placeholders": {
+            "miles": {
+                "type": "int"
+            }
+        }
+    },
+    "health_protocol" : "Health Protocol",
+    "dietary_supplements" : "Dietary Supplements",
+    "food_topics" : "Food Topics",
+    "health_topics" : "Health Topics",
+    "sustainable_food" : "Sustainable Food",
+    "article_filters" : "Article Filters"
+}

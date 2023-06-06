@@ -1,0 +1,4 @@
+enum FilterOptionsViewType {
+  checkbox,
+  radio;
+}
